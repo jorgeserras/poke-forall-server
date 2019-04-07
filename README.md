@@ -1,4 +1,4 @@
-# poke-forall-server
+# PokeForAll-server
 
 This repository contains the source-code for the Back-End system of the [PokeForAll](https://poke-forall.herokuapp.com/) app, representing a Node.js + MongoDB authentication and pokedex API.
 
