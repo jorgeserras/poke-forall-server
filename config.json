@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString": "mongodb://jorgeserras:candeias69@ds113732.mlab.com:13732/heroku_8549k39f",
-    "secret": "GANDA TELOGO ESTE CANDEIAS, ATE PARECE QUE NAO E DO ALGARVE"
+    "connectionString": "mlab mongoDB",
+    "secret": "SOME STRING YOU CHOSE, ITS SECRET"
 }
